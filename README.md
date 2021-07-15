@@ -17,7 +17,7 @@ Introduction to Machine Learning and Data Analysis
 
 
 ## 수제작 시각화 자료
-
+clustering.ipynb(군집화 문제) 에서 만든 gif들입니다.
 ### k-mean clustering
   ![kmean_3-clusters](https://user-images.githubusercontent.com/44926072/125800554-697e4d68-ed6b-419c-b791-46c8bf7a71f5.gif)
   ![kmean_4-clusters](https://user-images.githubusercontent.com/44926072/125800564-b16bd998-492b-4828-8bdc-857249b8ea72.gif)
